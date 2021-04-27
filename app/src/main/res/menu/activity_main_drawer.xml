@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:title="Справочник агронома">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:icon="@drawable/ic_menu_slideshow" android:id="@+id/id_kylt" android:title="Сх культуры"/>
+                <item android:icon="@drawable/ic_menu_camera" android:id="@+id/id_ydobr" android:title="Удобрения"/>
+                <item android:icon="@drawable/ic_menu_gallery" android:id="@+id/id_pochva" android:title="Почва"/>
+            </group>
+        </menu>
+    </item>&gt;
+    <item android:title="Развитие сх">
+        <menu>
+            <item android:icon="@drawable/ic_menu_share" android:id="@+id/id_razvit" android:title="Развитие сх"/>
+            <item android:icon="@drawable/ic_menu_send" android:id="@+id/id_analiz" android:title="Анализ рисков"/>
+        </menu>&gt;
+    </item>
+</menu>

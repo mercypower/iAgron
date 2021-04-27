@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="kyltyr_array">
+        <item>Загальна інформація</item>
+        <item>Зернові культури</item>
+        <item>Зернобобові культури</item>
+        <item>Кормові культури</item>
+        <item>Олійні культури</item>
+        <item>Ефіроолійні рослини</item>
+        <item>Технічні культури</item>
+        <item>Овоч</item>
+        <item>Лікувальні рослини</item>
+        <item>Ягідні культури</item>
+        <item>Картопля</item>
+        <item>Цукровий буряк</item>
+        <item>Виноград</item>
+    </array>
+    <array name="pochva_array">
+        <item>Загальна інформація</item>
+        <item>Глинистий грунт</item>
+        <item>Піщаний ґрунт</item>
+        <item>Супіщаних грунт</item>
+        <item>Суглинних грунт</item>
+        <item>Вапняний ґрунт</item>
+        <item>Болотистий грунт</item>
+        <item>Черноземы</item>
+    </array>
+    <array name="poliv_array">
+        <item>400л</item>
+        <item>600л</item>
+        <item>800л</item>
+        <item>1200л</item>
+    </array>
+    <array name="ydobr_array">
+        <item>Загальна інформація</item>
+        <item>Азотні добрива</item>
+        <item>Фосфорні добрива</item>
+        <item>Калійні добрива</item>
+        <item>Комплексні добрива</item>
+        <item>Органо-мінеральні добрива</item>
+        <item>Бактеріальні добрива</item>
+        <item>Мікродобрива</item>
+    </array>
+</resources>
